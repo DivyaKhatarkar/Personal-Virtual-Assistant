@@ -1,6 +1,6 @@
  # JERRY (Voice Control Personal-Virtual-Assistant)
 
-Libraries Used in Jerry - Virtual Assistant
+# Libraries Used in Jerry - Virtual Assistant
 
 *pyttsx3:* A text-to-speech conversion library in Python. It allows Jerry to speak responses, providing an auditory interaction with users.
 
