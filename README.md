@@ -2,7 +2,7 @@
 
 # Libraries Used in Jerry - Virtual Assistant
 
-*pyttsx3:* A text-to-speech conversion library in Python. It allows Jerry to speak responses, providing an auditory interaction with users.
+**pyttsx3:** A text-to-speech conversion library in Python. It allows Jerry to speak responses, providing an auditory interaction with users.
 
 *speech_recognition:* A library that enables Jerry to recognize and process spoken language. It converts speech input from the user into text, allowing for natural language interaction.
 
